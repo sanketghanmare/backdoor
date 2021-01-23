@@ -1,0 +1,3 @@
+([('backdoor',
+   '/Users/sanket/Desktop/tools/backdoor/dist/backdoor',
+   'EXECUTABLE')],)
